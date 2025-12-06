@@ -39,7 +39,12 @@
 
 **MongoDB Schema**
 	
-	The project uses MongoDB Atlas as the central data store, organizing all Fitbit and WHOOP datasets into separate, well-structured collections. Each collection represents a specific type of health data, allowing for flexible querying and efficient analysis. The Fitbit datasets are stored in daily_activity and sleep_day, containing user activity logs, steps, calories, and sleep records for more than 30 users. All collections use a consistent date field normalized to YYYY-MM-DD, making them easy to merge and compare during analysis. This schema design leverages MongoDB’s document-based structure, enabling scalable storage, fast aggregation, and seamless integration with Python through PyMongo for building the Streamlit dashboard.
+	The project uses MongoDB Atlas as the central data store, organizing all Fitbit and WHOOP datasets into separate, well-structured collections. 
+	Each collection represents a specific type of health data, allowing for flexible querying and efficient analysis. 
+	The Fitbit datasets are stored in daily_activity and sleep_day, containing user activity logs, steps, calories, and sleep records for more than 30 users. 
+	All collections use a consistent date field normalized to YYYY-MM-DD, making them easy to merge and compare during analysis. 
+	This schema design leverages MongoDB’s document-based structure, enabling scalable storage, fast aggregation, and seamless integration with Python through 
+	PyMongo for building the Streamlit dashboard.
 
 
 
