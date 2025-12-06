@@ -13,10 +13,10 @@
 **Project Goals**
 
 	This project successfully implements:
-	1. Multi-source data integration
-	2. ETL Pipeline (Extract, Transform, Load)
-	3. Interactive dashboard in Streamlit
-	4. Comparative Analysis
+	•	Multi-source data integration
+	•	ETL Pipeline (Extract, Transform, Load)
+	•	Interactive dashboard in Streamlit
+	•	Comparative Analysis
 
 
 
@@ -51,18 +51,18 @@
 **Dashboard Features**
 
 	Your dashboard contains 6 main tabs:
-	- Project Description
-	- Fitbit Activity
-	- Fitbit Sleep
-	- WHOOP Activity
-	- WHOOP Sleep
-	- Comparisons
+	•	Project Description
+	•	Fitbit Activity
+	•	Fitbit Sleep
+	•	WHOOP Activity
+	•	WHOOP Sleep
+	•	Comparisons
 
 
 
 **Future Improvements**
 
-	- Add machine learning predictions
-	- Add personal vs population trend anomalies
-	- Integrate heart rate time series for deeper analysis
-	- Add user authentication to support multiple WHOOP users
+	•	Add machine learning predictions
+	•	Add personal vs population trend anomalies
+	•	Integrate heart rate time series for deeper analysis
+	•	Add user authentication to support multiple WHOOP users
