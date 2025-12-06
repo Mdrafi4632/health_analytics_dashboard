@@ -48,7 +48,7 @@
 
 
 
-**Dashboard Features (Streamlit)**
+**Dashboard Features**
 
 	Your dashboard contains 6 main tabs:
 	- Project Description
