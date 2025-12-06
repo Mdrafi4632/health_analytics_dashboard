@@ -3,10 +3,10 @@
 	WHOOP Personal Data + Fitbit Public Dataset Analysis Using MongoDB, Python, and Streamlit.
 	This project develops a comprehensive health analytics dashboard that compares Rafi’s personal WHOOP data with public Fitbit activity and sleep datasets.
 	The dashboard provides visual insights into activity, sleep, HRV, strain, calories, and more, using a modern data pipeline:
-		•	MongoDB Atlas (NoSQL database)
-		•	Python (Pandas, PyMongo)
-		•	Streamlit (interactive web dashboard)
-		•	Altair (visualization library)
+	•	MongoDB Atlas (NoSQL database)
+	•	Python (Pandas, PyMongo)
+	•	Streamlit (interactive web dashboard)
+	•	Altair (visualization library)
 
 
 
@@ -23,17 +23,17 @@
 **Data Sources**
 
 	Fitbit Public Dataset
-		•	Daily Activity
-		•	Sleep Logs
-		•	Steps, Calories, Intensity Minutes
+	•	Daily Activity
+	•	Sleep Logs
+	•	Steps, Calories, Intensity Minutes
 	
 	WHOOP Personal Dataset
-		•	Heart Rate Variability (HRV)
-		•	Resting Heart Rate (RHR)
-		•	Day Strain
-		•	Energy Burn
-		•	Sleep Duration
-		•	Sleep Performance (%)
+	•	Heart Rate Variability (HRV)
+	•	Resting Heart Rate (RHR)
+	•	Day Strain
+	•	Energy Burn
+	•	Sleep Duration
+	•	Sleep Performance (%)
 
 
 
