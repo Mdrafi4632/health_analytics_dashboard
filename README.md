@@ -1,13 +1,12 @@
 
 **Health Analytics Dashboard**
-
-WHOOP Personal Data + Fitbit Public Dataset Analysis Using MongoDB, Python and Streamlit.
-This project builds a complete health analytics dashboard that compares Rafi’s personal WHOOP with public Fitbit activity and sleep datasets.
-The dashboard provides visual insights into activity, sleep, HRV, strain, calories, and more, using a modern data pipeline:
-	•	MongoDB Atlas (NoSQL database)
-	•	Python (Pandas, PyMongo)
-	•	Streamlit (interactive web dashboard)
-	•	Altair (visualization library)
+	WHOOP Personal Data + Fitbit Public Dataset Analysis Using MongoDB, Python and Streamlit.
+	This project builds a complete health analytics dashboard that compares Rafi’s personal WHOOP with public Fitbit activity and sleep datasets.
+	The dashboard provides visual insights into activity, sleep, HRV, strain, calories, and more, using a modern data pipeline:
+		•	MongoDB Atlas (NoSQL database)
+		•	Python (Pandas, PyMongo)
+		•	Streamlit (interactive web dashboard)
+		•	Altair (visualization library)
 
 
 
